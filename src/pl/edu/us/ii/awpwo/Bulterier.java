@@ -1,4 +1,4 @@
-package pl.edu.us.ii.awpwo;
+
 
 public class Bulterier extends Pies {
 	@Override

@@ -1,4 +1,4 @@
-package pl.edu.us.ii.awpwo;
+
 
 public class Pitbull extends Pies
 {
